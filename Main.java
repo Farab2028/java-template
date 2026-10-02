@@ -27,6 +27,8 @@ public class Main {
       String sentence1 = "Yesterday, I tried to bake a " + adjective1 + "cake in my" + place1;
       String sentence2 = "First, I mixed 3 cups of" + noun2, plural + "with a splash of" + liquid;
       String sentence3 = "Then, I added a pinch of" + adjective2 + "salt and stirred it with a" + noun3;
+      String sentence4 = "Suddenly, the bowl began to" + verb1 + "and turned bright" + color;
+      String sentence5 = "I panicked and tried to" + adjective1 + "cake in my" + place1;
       
       
    
