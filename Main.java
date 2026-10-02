@@ -24,6 +24,10 @@ public class Main {
       String food = "broccoli";
       String noun5 = "pet dog";
 
+      String sentence1 = "Yesterday, I tried to bake a " + adjective1 + "cake in my" + place1;
+      String sentence2 = "First, I mixed 3 cups of" + noun2, plural + "with a splash of" + liquid;
+      String sentence3 = "Then, I added a pinch of" + adjective2 + "salt and stirred it with a" + noun3;
+      
       
    
       
